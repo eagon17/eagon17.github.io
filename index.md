@@ -2,8 +2,6 @@
 
 This is added 01
 
-This is added 02
-
 Collection of useful stuff.
 
 ### Links
